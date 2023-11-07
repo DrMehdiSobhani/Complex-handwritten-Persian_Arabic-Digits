@@ -7,7 +7,7 @@ It is in jupyter niotebook format so do not forget to run all the blocks from th
 
 There are also 3 persian handwritten images in this repository and as you can see 2 of them are complex and the application easily understands and identify them .
 
-here is one of that complex handwritten images :
+Here is one of that complex handwritten images :
 
 ![Alt text](2.jpg)
 
